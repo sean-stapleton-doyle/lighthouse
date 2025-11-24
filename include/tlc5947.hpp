@@ -1,5 +1,4 @@
-#ifndef TLC5947_H
-#define TLC5947_H
+#pragma once
 
 #include "pico/stdlib.h"
 #include <array>
@@ -35,4 +34,3 @@ private:
     void latchData();
 };
 
-#endif // TLC5947_H

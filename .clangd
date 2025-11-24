@@ -1,2 +1,0 @@
-CompileFlags:
-  Add: [--query-driver=/usr/bin/arm-none-eabi*]
